@@ -21,6 +21,6 @@ Me chamo Gustavo Soares, sou um desenvolvedor fullstack que atualmente está tra
 <img align="center" alt="Gustavohvs-dev-php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
 <img align="center" alt="Gustavohvs-dev-lara" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
 <img align="center" alt="Gustavohvs-dev-lara" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg"/>
-<img align="center" alt="Gustavohvs-dev-lara" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
+<img align="center" alt="Gustavohvs-dev-lara" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center" alt="Gustavohvs-dev-lara" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
 </div>
