@@ -10,7 +10,7 @@ https://www.linkedin.com/in/gustavo-soares-a9941b147/
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-soares-a9941b147/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gustavo.svg/)
 
-### 🛠️ Technologies e Tools I use:
+### 🛠️ Technologies and Tools I use:
 
 <div>
 <img align="center" alt="Gustavohvs-dev-html" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
