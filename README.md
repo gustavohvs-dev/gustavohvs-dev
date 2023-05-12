@@ -1,6 +1,6 @@
 ## 😄 Hey, how's it going?
 
-My name is Gustavo Soares and I am a fullstack developer with three years of experience in web development. During this period, I have acquired skills in building REST APIs using PHP, with a focus on the Laravel framework, and Node.js, using the Express.js framework. As for the front-end, I am proficient in HTML5, CSS, JavaScript, Bootstrap, and React.js.
+My name is Gustavo Soares and I am a fullstack developer with three years of experience in web development. During this period, I have acquired skills in building REST APIs using PHP and Node.js (using the Express.js framework). As for the front-end, I am proficient in HTML5, CSS, JavaScript, Bootstrap, and React.js.
 
 If you would like to learn more about my professional experience and previous projects, please check out my LinkedIn profile:
 https://www.linkedin.com/in/gustavo-soares-a9941b147/
