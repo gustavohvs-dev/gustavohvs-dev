@@ -17,9 +17,7 @@ https://www.linkedin.com/in/gustavo-soares-a9941b147/
 <img align="center" alt="Gustavohvs-dev-css" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="center" alt="Gustavohvs-dev-js" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="center" alt="Gustavohvs-dev-php" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
-<img align="center" alt="Gustavohvs-dev-lara" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"/>
 <img align="center" alt="Gustavohvs-dev-nodejs" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="center" alt="Gustavohvs-dev-express" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"/>
 <img align="center" alt="Gustavohvs-dev-react" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="center" alt="Gustavohvs-dev-mysql" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>
  <img align="center" alt="Gustavohvs-dev-mongoose" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
